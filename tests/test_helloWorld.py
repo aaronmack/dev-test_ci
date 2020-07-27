@@ -1,7 +1,7 @@
 import unittest
 from maya import cmds
 
-from base import MayaBaseTestCase
+# from base import MayaBaseTestCase
 
 transform = None
 class TestHelloWorld(unittest.TestCase):
